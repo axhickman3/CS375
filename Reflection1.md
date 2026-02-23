@@ -1,5 +1,9 @@
----
-layout: page
-title: Example Requirements
-permalink: /Reflection1.md
----
+# Alex Hickman<br>Professor Ralph Rostock<br>CS 375-A<br>February 18, 2026
+## Individual contributions during the prior sprint
+I created a master document to organize our proposal and shared it with the group members. I also formatted the proposal by creating headings for the specific information needed to include based on the assignment details then explained each heading to my group members. I wrote multiple sections of the document as well as looked over and edited for clarification or grammar of sections wrote by other group members. I added additional context to certain sections that seemed to be lacking in detail or could use further clarification. I directed our efforts and organized our priorities on what needed to be done when. I also aided Claire in making the Github repository, however, a large part of the actual creation was executed by her. I engaged in extensive brainstorming and planning for not only the current objectives but long-term project goals as well including scheduling a meeting outside of class with my group members every sprint.
+## Planned individual contributions during the upcoming sprint
+I plan to help set our project up for success by establishing familiarity with and using github and git's commands, functions, and features. I also plan to direct the group's focus towards immediate priorities at our next meeting. 
+## Any technical challenges that you face that are preventing you from achieving your planned contributions to the group
+Our previous planned stakeholder expressed an inability to regularly give feedback for our project, so we are in the process of asking other stake holders to give feedback instead.
+## Any areas for personal and professional development that would better enable you to meet your planned contributions on-schedule
+Gaining more familiarity with github and git in general will be a great boon to better enable me to contribute more easily as this is the first time I have encountered or used these tools. Although, I know that they are very common and it is necessary for me to learn how to use these as they will prove extremely useful later in my career. 
