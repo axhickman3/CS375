@@ -8,4 +8,4 @@ I plan to continue initiating communication efforts and ensure that the entire t
 Group members tend to be more efficient at completing work at different times of the day due to differing schedules which can make collaborating more difficult. However, I am confident we can overcome this 
 obstacle with frequent communication and planning out the week ahead of time.
 # Any areas for personal and professional development that would better enable you to meet your planned contributions on-schedule
-Learning how to use ollama which will be the basis for our AI agent and product as whole is of utmost importance to the success of our project.
+Learning how to use ollama which will be the basis for our AI agent and product as whole is of utmost importance to the success of our project. Doing more research on the field of AI in general would better in form me.
