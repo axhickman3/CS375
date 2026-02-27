@@ -3,7 +3,7 @@ I wrote the press release for our product as well as the Frequently Asked Questi
 I helped refine the requirements for our project as well as format them by splitting them into Functional requirements or Nonfunctional Requirements.
 I helped coordinate our efforts for the Git Assignment, shared repositiories, initiated conversations about the project and assignments, gave updates about what I was working on and when, and communicated frequently.
 # Your planned individual contributions during the upcoming sprint
-I plan to continue initiating communication efforts and ensure that the entire team is on the same page. 
+I plan to continue initiating communication efforts and ensure that the entire team is on the same page. I also plan on informing myself of the intricacies of the field by doing more research.
 # Any technical challenges that you face that are preventing you from achieving your planned contributions to the group
 Group members tend to be more efficient at completing work at different times of the day due to differing schedules which can make collaborating more difficult. However, I am confident we can overcome this 
 obstacle with frequent communication and planning out the week ahead of time.
